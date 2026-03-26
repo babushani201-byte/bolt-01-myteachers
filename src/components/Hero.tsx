@@ -11,7 +11,7 @@ const Hero = () => {
       subtitle: 'Empowering Muslim families worldwide with quality Quranic education'
     },
     {
-      image: 'https://images.unsplash.com/photo-1585036156171-384164a8c675?auto=format&fit=crop&w=1920&q=80',
+      image: 'https://images.pexels.com/photos/36703087/pexels-photo-36703087.jpeg?auto=compress&cs=tinysrgb&w=1920',
       title: 'Flexible Learning at Your Convenience',
       subtitle: 'One-on-one classes tailored to your schedule and learning pace'
     },
