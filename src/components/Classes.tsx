@@ -21,7 +21,7 @@ const Classes = () => {
       subtitle: 'For Beginners & Starters',
       description: 'Perfect for beginners starting their Quranic journey. Learn Arabic alphabet, pronunciation, and basic reading skills.',
       icon: <BookOpen className="w-8 h-8" />,
-      image: 'https://images.pexels.com/photos/8613092/pexels-photo-8613092.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://images.pexels.com/photos/36703074/pexels-photo-36703074.jpeg?auto=compress&cs=tinysrgb&w=800',
       details: [
         'Arabic alphabet recognition and pronunciation',
         'Letter joining and word formation',
@@ -37,7 +37,7 @@ const Classes = () => {
       subtitle: 'Reading with Correct Pronunciation',
       description: 'Master the art of reading the Holy Quran with proper Tajweed rules and beautiful pronunciation.',
       icon: <Book className="w-8 h-8" />,
-      image: 'https://images.pexels.com/photos/6298951/pexels-photo-6298951.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://images.pexels.com/photos/36437210/pexels-photo-36437210.jpeg?auto=compress&cs=tinysrgb&w=800',
       details: [
         'Complete Tajweed rules application',
         'Makharij (pronunciation points) mastery',
@@ -53,7 +53,7 @@ const Classes = () => {
       subtitle: 'Memorization with Advanced Tajweed',
       description: 'Memorize the Holy Quran by heart with advanced Tajweed and beautiful Qiraat styles.',
       icon: <Brain className="w-8 h-8" />,
-      image: 'https://images.pexels.com/photos/6298959/pexels-photo-6298959.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://images.pexels.com/photos/36451940/pexels-photo-36451940.jpeg?auto=compress&cs=tinysrgb&w=800',
       details: [
         'Structured memorization methodology',
         'Daily revision techniques',
@@ -70,7 +70,7 @@ const Classes = () => {
       subtitle: 'Translation & Understanding',
       description: 'Understand the meanings and wisdom of the Quran through translation and Tafseer lessons.',
       icon: <Languages className="w-8 h-8" />,
-      image: 'https://images.pexels.com/photos/7120914/pexels-photo-7120914.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://images.pexels.com/photos/36318572/pexels-photo-36318572.jpeg?auto=compress&cs=tinysrgb&w=800',
       details: [
         'Word-by-word translation',
         'Quranic Arabic grammar basics',
