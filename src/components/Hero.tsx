@@ -6,17 +6,17 @@ const Hero = () => {
 
   const slides = [
     {
-      image: 'https://images.pexels.com/photos/8613089/pexels-photo-8613089.jpeg?auto=compress&cs=tinysrgb&w=1920',
+      image: 'https://images.unsplash.com/photo-1609599006353-e629aaabfeae?auto=format&fit=crop&w=1920&q=80',
       title: 'Learn Quran Online from Expert Teachers',
       subtitle: 'Empowering Muslim families worldwide with quality Quranic education'
     },
     {
-      image: 'https://images.pexels.com/photos/7120913/pexels-photo-7120913.jpeg?auto=compress&cs=tinysrgb&w=1920',
+      image: 'https://images.unsplash.com/photo-1585036156171-384164a8c675?auto=format&fit=crop&w=1920&q=80',
       title: 'Flexible Learning at Your Convenience',
       subtitle: 'One-on-one classes tailored to your schedule and learning pace'
     },
     {
-      image: 'https://images.pexels.com/photos/5623623/pexels-photo-5623623.jpeg?auto=compress&cs=tinysrgb&w=1920',
+      image: 'https://images.unsplash.com/photo-1564769610726-59cead6a6f8f?auto=format&fit=crop&w=1920&q=80',
       title: 'Qualified & Experienced Quran Teachers',
       subtitle: 'Learn with certified teachers who understand your cultural context'
     }
