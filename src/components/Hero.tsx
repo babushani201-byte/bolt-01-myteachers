@@ -16,7 +16,7 @@ const Hero = () => {
       subtitle: 'One-on-one classes tailored to your schedule and learning pace'
     },
     {
-      image: 'https://images.unsplash.com/photo-1564769610726-59cead6a6f8f?auto=format&fit=crop&w=1920&q=80',
+      image: 'https://images.unsplash.com/photo-1573483883644-d0b4b55eb25d?auto=format&fit=crop&w=1920&q=80',
       title: 'Qualified & Experienced Quran Teachers',
       subtitle: 'Learn with certified teachers who understand your cultural context'
     }
